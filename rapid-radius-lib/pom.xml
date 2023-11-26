@@ -58,16 +58,5 @@
 		</dependency>
 	</dependencies>
 
-	<distributionManagement>
-		<repository>
-			<id>nexus</id>
-			<name>Saba Maven Release Repository</name>
-			<url>https://repo.sabapardazesh.net/repository/maven-release/</url>
-		</repository>
-		<snapshotRepository>
-			<id>nexus</id>
-			<name>Saba Maven Snapshot Repository</name>
-			<url>https://repo.sabapardazesh.net/repository/maven-snapshot/</url>
-		</snapshotRepository>
-	</distributionManagement>
+
 </project>
